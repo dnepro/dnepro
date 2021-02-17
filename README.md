@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 I’m a freelance Javascript and TypeScript Developer focused on Frontend (but also some backend) in [Hannover, Germany](https://www.google.com/maps/place/Hannover/@52.3795836,9.6213892,6.5z), from [Dnipro, Ukraine](https://www.google.com/maps/place/Dnipro/@48.4624412,34.8602724,6.5z).
 
 - 🌐 Speaking Deutsch, English and Русский
-- 🌱 currently working at [TUI](https://www.tui.com) and on leveling up my Docker & Kubernetes Knowledge with [https://acloudguru.com/](https://acloudguru.com), stay tuned!
+- 🌱 currently working at [TUI](https://www.tui.com) and on leveling up my Docker & Kubernetes Knowledge with [acloudguru.com/](https://acloudguru.com), stay tuned!
 - 📫 [Twitter: dnepro](https://twitter.com/dnepro)
 - 📑 Visit me also here: 
   - 🔎 [My Personal Website](https://roman-minchyn.de)
