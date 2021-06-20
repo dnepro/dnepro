@@ -20,5 +20,5 @@ I’m a freelance Javascript and TypeScript Developer focused on Frontend (but a
 
 ## Tech Stack
 
-- ⚡ Current favourite Frontend Tech Stack: [React](https://github.com/facebook/react) with [Nextjs](https://github.com/vercel/next.js) and [styled-components](https://github.com/styled-components/styled-components)
+- ⚡ Current favourite Frontend Tech Stack: [React](https://github.com/facebook/react) with [Nextjs](https://github.com/vercel/next.js) and [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - ⚡ Current favourite Backend Tech Stack: [Node](https://github.com/nodejs/node) with [Express](https://github.com/expressjs/express) and [Docker](https://docker.com)
